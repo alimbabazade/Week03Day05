@@ -1,0 +1,230 @@
+
+body{
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 1px;
+	color: #49494A;
+	line-height: 22px;
+}
+
+.colorGrey{
+	background-color: #E8E7EB;
+}
+
+.paddingTop{
+	padding-top: 20px;
+}
+
+.upper{
+	text-transform: uppercase;
+}
+
+.colorWhite{
+	color:white;
+}
+
+.clearFix {
+	float:left;
+}
+
+.lineHeight {
+	height: 40px;
+}
+
+
+
+
+/* main */
+.bg-image {
+	position: relative;
+}
+
+.bg-image img{
+	background-size: cover;
+	width: 100%;
+	margin: 0 auto;
+	display: block;
+}
+
+.hero-image {
+	margin-top: -20px;
+}
+
+.hero-image img{
+	position: relative;
+}
+
+.her{
+	position: absolute;
+	top:42%;
+	left:25%;
+	color: white;
+}
+
+.her h1{
+	font-size: 50px;
+}
+
+.her i{
+	font-size: 100px;
+}
+
+.step2 {
+	border-bottom: 1px solid lightgrey;
+}
+
+.info{ 
+	padding: 40px;
+}
+
+.info h3 {
+	margin-bottom: 30px;
+
+}
+
+
+.border {
+	border-bottom: 1px solid lightgrey;
+}
+
+
+.firstBack {
+	background-image: url(../Verilenler/img/bg/divider1.jpg);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-size: 100%;
+}
+
+.bigP{
+	font-size: 25px;
+	line-height: 30px;
+}
+
+.voice p {
+	margin: 20px 0;
+}
+
+.secondBack{
+	background-image: url(../Verilenler/img/bg/divider2.jpg);
+	background-attachment: fixed;
+	background-position: center center;
+}
+
+.secondBack p {
+	margin-top: 10px;
+}
+
+.team p{
+	font-size: 12px;
+	margin-top: 10px;
+	margin-bottom:20px; 
+}
+.marg {
+	margin-bottom: 7%;
+}
+
+.margh2 {
+	margin-top: 50px;
+}
+
+.mac{
+	padding: 30px;
+}
+
+.mac p{
+	padding: 20px;
+}
+
+.mac button {
+	margin-top: 10%;
+}
+
+.thirdBack{
+	background-image: url(../Verilenler/img/bg/divider3.jpg);
+	background-attachment: fixed;
+	background-position: center center;
+}
+
+.thirdBack p{
+	margin-top: 1.5%;
+}
+
+.fotoBar img{
+	width: 100%;
+	padding: 10px 0;
+}
+
+.fourBack {
+	background-image: url(../Verilenler/img/bg/divider4.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center center;
+}
+
+.fourBack p {
+	margin-top: 1.5%;
+}
+
+.colorDark {
+	background-color:#383838;
+}
+
+.information p, h5 {
+	color: white;
+}
+
+.information img {
+	padding:20px 50px;
+	display: inline;
+}
+
+.information h5 {
+	font-size: 18px;
+}
+
+.information .colorGrey p{
+	color:grey;
+	padding-bottom:20px;
+}
+
+.information p:first-child{
+	font-size:12px;
+
+}
+
+
+.fiveBack {
+	background-image: url(../Verilenler/img/bg/divider6.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center center;
+}
+
+.fiveBack p{
+	padding-top: 12px;
+}
+
+.toFinish {
+	background-color: #49494A;
+}
+
+.toFinish{
+	padding: 2% 0;
+}
+
+.toFinish a{
+	text-decoration: none;
+	color:white;
+	transition: all 0.4s ease
+}
+
+.toFinish a:hover{
+	color:#07ABED;
+}
+
+
+
+
+
